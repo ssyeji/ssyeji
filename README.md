@@ -1,7 +1,7 @@
 # SONG YEJI 🙋🏻‍♀️
 
 ## About Me
-- 🏢 IDS&TRUST - Daewoong Pham Subsidiary (2016.01 ~ 2020.07)
+- 🏢 IDS&TRUST (Daewoong Pham Subsidiary) BackOffice Developer (2016.01 ~ 2020.07)
 - 👩🏻‍🎓 Soongsil Univ. - Media Management (2019.03 ~ )
 - 👩🏻‍🎓 Mirim Meister School - New Midea Solution (2013.03 ~ 2016.02)
 
@@ -23,6 +23,12 @@
 <a href="https://www.notion.so/DEVELOP-STUDY-704fb305b848448cb072abdab123bf9c" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/notion%20-%23F5F5F5.svg?&style=for-the-badge&logo=notion&logoColor=black"/></a>
 
 ## Static
+<p align="center">
+  <a href="http://lovera.maxam.now.sh/">
+    <img src="https://user-images.githubusercontent.com/25841814/79395484-5081ae80-7fac-11ea-9e27-ac91472e31dd.png" alt="screenshot" width="500">
+  </a>
+</p>
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ssyeji&hide=issues&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssyeji&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

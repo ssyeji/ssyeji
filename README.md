@@ -21,15 +21,12 @@
 <img alt="MySQL" src="https://img.shields.io/badge/mariadb%20-%2314354C.svg?&style=for-the-badge&logo=mariadb&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300000f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
+## Static
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ssyeji&hide=issues&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssyeji&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Contact / Personal Page
 <a href="mailto:s97528s@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.notion.so/DEVELOP-STUDY-704fb305b848448cb072abdab123bf9c" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/notion%20-%23F5F5F5.svg?&style=for-the-badge&logo=notion&logoColor=black"/></a>
-
-## Static
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ssyeji&hide=issues&show_icons=true)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssyeji&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **ssyeji/ssyeji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

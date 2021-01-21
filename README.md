@@ -1,9 +1,10 @@
-# SONG YEJI 🙋🏻‍♀️
+# 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/76587544/105297910-8ddf3080-5bfd-11eb-937f-104fdc5099a2.jpg" width="70%">
 </p>
 
 ## About Me
+🙋🏻‍♀️ SONG YEJI (1997.05.28)
 - 🏢 IDS&TRUST (Daewoong Pham Subsidiary) - BackOffice Developer (2016.01 ~ 2020.07)
 - 👩🏻‍🎓 Soongsil Univ. - Media Management (2019.03 ~ )
 - 👩🏻‍🎓 Mirim Meister School - New Midea Solution (2013.03 ~ 2016.02)

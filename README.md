@@ -27,7 +27,7 @@
 
 ## Contact / Personal Page
 <a href="mailto:s97528s@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.notion.so/DEVELOP-STUDY-704fb305b848448cb072abdab123bf9c" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/notion%20-%23F5F5F5.svg?&style=for-the-badge&logo=notion&logoColor=black"/></a>
+<a href="https://alabaster-redcurrant-1f8.notion.site/448bbacf17584382a816d292c4d5515b" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/notion%20-%23F5F5F5.svg?&style=for-the-badge&logo=notion&logoColor=black"/></a>
 
 ## Commit Comment
 - [ ⭐️ ] New file

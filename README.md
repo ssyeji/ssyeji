@@ -5,6 +5,7 @@
 
 ## About Me
 🙋🏻‍♀️ **SONG YEJI** (1997.05.28)
+- 🏢 SSG I&C - BackOffice Developer (2022.11 ~ )
 - 🏢 IDS&TRUST (Daewoong Pham Subsidiary) - BackOffice Developer (2016.01 ~ 2020.07)
 - 👩🏻‍🎓 Soongsil Univ. - Media Management (2019.03 ~ )
 - 👩🏻‍🎓 Mirim Meister School - New Midea Solution (2013.03 ~ 2016.02)
